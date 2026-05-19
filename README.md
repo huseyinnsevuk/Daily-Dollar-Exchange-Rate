@@ -2,12 +2,12 @@
 # 💰 Günlük Döviz Takip Botu
 *Bu proje Python ile TCMB verilerini otomatik çeker ve her gün günceller.*
 
-### 🚀 Son Güncelleme: 2026-05-18 10:00:45
+### 🚀 Son Güncelleme: 2026-05-19 09:40:01
 
 | Döviz Tipi | Alış (TL) | Satış (TL) |
 | :--- | :---: | :---: |
-| **🇺🇸 Dolar (USD)** | 45.3559 | 45.5377 |
-| **🇪🇺 Euro (EUR)** | 52.7743 | 52.9857 |
+| **🇺🇸 Dolar (USD)** | 45.4159 | 45.5979 |
+| **🇪🇺 Euro (EUR)** | 52.8448 | 53.0566 |
 
 ---
 *Veriler [TCMB](https://www.tcmb.gov.tr) üzerinden XML servisi ile anlık alınmıştır.*
