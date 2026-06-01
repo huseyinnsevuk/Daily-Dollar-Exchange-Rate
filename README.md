@@ -2,7 +2,7 @@
 # 💰 Günlük Döviz Takip Botu
 *Bu proje Python ile TCMB verilerini otomatik çeker ve her gün günceller.*
 
-### 🚀 Son Güncelleme: 2026-05-31 08:43:08
+### 🚀 Son Güncelleme: 2026-06-01 11:30:30
 
 | Döviz Tipi | Alış (TL) | Satış (TL) |
 | :--- | :---: | :---: |
